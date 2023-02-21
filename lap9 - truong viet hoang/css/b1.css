@@ -1,0 +1,8 @@
+.pin {
+    padding: 5px;
+    margin: 10px;
+    font-variant: small-caps;
+    border: 5px;
+    line-height: 20px;
+    border-radius: 5px;
+}

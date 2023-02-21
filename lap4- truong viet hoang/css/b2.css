@@ -1,0 +1,16 @@
+.menu{
+    font-variant: small-caps;
+    color:blue;
+    text-decoration: none;
+}
+.menu>a{
+    color: blue;
+    text-decoration: none;
+}
+.menu:visited{
+    color: rgb(17, 203, 17);
+}
+.menu>a:hover{
+    color: red;
+    text-decoration: underline;
+}

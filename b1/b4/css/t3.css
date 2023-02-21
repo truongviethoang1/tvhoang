@@ -1,0 +1,17 @@
+a{
+    font-variant: small-caps;
+    text-decoration: none;
+}
+a:link{
+    color: blue;
+}
+a:active{
+    color: orangered;
+}
+a:visited{
+    color: rgb(16, 206, 16);
+}
+a:hover{
+    color: red;
+    text-decoration: underline;
+}

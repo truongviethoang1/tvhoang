@@ -1,0 +1,22 @@
+ul.e{
+    margin: 0px;
+    padding: 0px;
+    border-radius: 9px;
+    box-shadow: 0 0 10px orangered;
+    list-style: none;
+}
+ul.e>li>a{
+    display: block;
+    line-height: 30px;
+    border-bottom: 1px dotted orangered;
+    text-decoration: none;
+    font-variant: small-caps;
+    color: orangered;
+    padding-left: 30px;
+    background: url(../img/2.gif) no-repeat left center;
+}
+ul.e>li>a:hover{
+    background: url(../img/3.gif) no-repeat left center;
+    font-weight: bolder;
+    color: red;
+}

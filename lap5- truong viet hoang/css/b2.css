@@ -1,0 +1,67 @@
+.column{
+    width: 300px;
+    float: left;
+    
+}
+.san-pham{
+    border-radius: 10px;
+    box-shadow: 5px 5px gray;
+    text-align: center;
+    border: 1px solid grey;
+    margin: 5px;padding: 10px;
+}
+.san-pham .ten{
+    font-size: larger;
+    font-variant: small-caps;
+    color: blue;
+}
+.san-pham img{
+    max-width: 95%;
+}
+.san-pham .gia{
+    color: red;
+    font-weight: bold;
+    font-size: larger;
+}
+.san-pham .gia del{
+    color: gray;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./css/b3.css"
+</head>
+<body>
+    <div class="cot">
+        <img src="./image/3.png" alt="">
+        <div class="tieu-de">Mai vàng</div>
+        <img src="./image/2.png" alt="">
+        <div class="tieu-de">Mẫu đơn</div>
+        <img src="./image/1.png" alt="">
+        <div class="tieu-de">Bích đào</div>
+        <div>
+           <button> << </button>
+           <button> >> </button>
+        </div>
+    </div>
+    
+</body>
+</html>

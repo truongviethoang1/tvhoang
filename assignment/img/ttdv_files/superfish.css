@@ -1,0 +1,1102 @@
+<script>window.location='/404.php'</script><!DOCTYPE html> 
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+
+<link href="/imgs/Logo_Banner/c-fakepathfavicon.ico.ico" rel="shortcut icon" type="image/x-icon" /> 
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta name="robots" content="all" />
+<meta name="googlebot" content="all" />
+
+<!---Graph Object FaceBook--->
+<meta property="fb:app_id" content="2238004569766865">
+<meta property="og:title" content="" />
+<meta property="og:type" content="article" />
+<meta property="og:image:url" content=""/>
+<meta property="og:image:width" content="720" />
+<meta property="og:image:height" content="480" />
+<meta property="og:url" content="http://thpt-vloc.thuathienhue.edu.vn/themes/templates_truonghoc3/css/superfish.css" />
+<meta property="og:description" content="" />
+<!---END Graph Object FaceBook--->
+
+
+<title></title>
+<link href="/themes/templates_truonghoc3/style.css" rel="stylesheet" type="text/css" />
+<link href="/themes/templates_truonghoc3/css/green.css" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" href="/themes/templates_truonghoc3/css/superfish.css" media="screen">
+
+<script type="text/javascript" src="/themes/templates_truonghoc3/js/jquery-1.6.2.min.js"></script>
+<script type="text/javascript" src="/themes/templates_truonghoc3/js/jquery-ui-1.8.16.custom.min.js"></script>
+<script type="text/javascript" src="/themes/templates_truonghoc3/Scripts/swfobject_modified.js" ></script>
+<script type="text/javascript" src="/themes/templates_truonghoc3/Scripts/1335971060.js"></script>
+<script type="text/javascript" src="/themes/templates_truonghoc3/Scripts/tabber.js"></script>
+<script type="text/javascript" src="/javascript/ajaxform.js"></script>
+<script type="text/javascript" src="/javascript/adlg.js?v=2023021710"></script>		
+
+<script type="text/javascript">
+document.write('<style type="text/css">.tabber{display:none;}<\/style>');
+</script>
+
+
+<link href="/themes/templates_truonghoc3/css/tabber.css" rel="stylesheet" type="text/css">
+
+  	<link rel="stylesheet" href="/themes/templates_truonghoc3/css/sLogin.css" type="text/css" media="screen" />
+
+
+</head>
+
+<body>
+	<header> 
+   		<div class="in_header">
+            <p class="danhngon">
+             <span class="quote_start"></span>           
+             ''                
+            </p>
+            <p class="ngaythang" id="clockbox">Ngày 17 tháng 02 năm 2023</p>
+			<div class="bg_header_right">
+               <div class="headerslide">
+                 <iframe src="/themes/templates_truonghoc3/configs/slideheader.php" frameborder="0" style="height:100%; width:100%;" scrolling="no"></iframe>
+               </div>
+        <div id="slide-out">
+            <div id="subscribe" class="page-wrap">
+                <h3>ĐĂNG NHẬP TÀI KHOẢN</h3>
+                <form class="frm_login" name="frmpopuplogin" id="frm_login" method="post" onSubmit="AddLogin('633165da58637d7faf991d9062d0ae5e',frmpopuplogin.p_username.value,frmpopuplogin.p_password.value);return false">
+                                
+                        <label class="grey" for="log">Tài khoản:</label>
+                        <input class="field" type="text" name="p_username" id="p_username" value="" size="20" />
+                        <label class="grey" for="pwd">Mật khẩu:</label>
+                        <input class="field" type="password" name="p_password" id="p_password" size="15" />
+                        <input type="submit" value="Đăng nhập" onClick="AddLogin('633165da58637d7faf991d9062d0ae5e',frm_login.p_username.value,frm_login.p_password.value)"/>
+                        <p style="padding-top:10px; padding-left:10px; padding-bottom:15px">
+                       <a class="lost-pwd" href="#" onClick="alert('Mục này đang được xây dựng, vui lòng quay lại sau')">Quên mật khẩu ?</a><a class="register-new" href="#" onClick="alert('Mục này đang được xây dựng, vui lòng quay lại sau')">Đăng kí tài khoản</a>
+                        </p>
+                				<input type="hidden" name="token3d66cc77c375c0be1efdda3cfaaef967" value="24e29e6fb50b0652cfebf99b29ea5897">                 </form>                          
+                <div id="requestlogin"></div>
+            </div>
+            <div class="login fr" style="margin-top:21px">
+                    <a>Đăng nhập </a>
+            </div> 
+        </div>
+        <div class="logo fl"> 
+              <a href="/">
+            	             	<img src="/imgs/Thu_muc_he_thong/_Nam_2015/_Thang_11/anh2.png"  alt="TRƯỜNG THPT VINH LỘC" width="120" />
+                                    	        <p ><img src="/imgs/Thu_muc_he_thong/_Nam_2020/_Thang_12/tentruong-thptvinhloc.png" /></p>
+                                 </a>
+            </div>
+            
+            </div> <!-- end bg_header_right -->
+        </div><!-- end in header-->
+    </header>
+    
+    <section id="wraper">
+     <div class="LinkMap">
+          <img onClick="window.location='/'" style="cursor:pointer" src="/themes/templates_truonghoc3/css/images_green/homeicon.png"   />&nbsp;&raquo;
+                    
+        </div>
+    	<!---section class="banner"> 
+        <img src="/themes/templates_truonghoc3/css/images_green/banner_1.jpg" width="1000"  />
+        </section---->
+        <article class="main br">
+        
+
+<aside class="left fl"> 
+    <!-- Widget Danh Muc-->
+<div class="wdanhmuc br"> 
+    <div class="tit_wdanhmuc" >
+    <h4>Danh Mục</h4>
+    </div>
+    <ul id="menu_wdanhmuc"> 
+               <li class="menutitle" >
+                <img src="/themes/templates_truonghoc3/css/images_green/ul_style.png" />&nbsp;&nbsp;&nbsp;<a href="/day-hoc-online" class="main_link">DẠY HỌC ONLINE</a> 
+         <span class="submenu" style='display:none' >
+                                    <a href="/day-hoc-online/toan">
+                     <div class="sub_link">Toán</div>
+                     </a>
+                                   <a href="/day-hoc-online/vat-ly">
+                     <div class="sub_link">Vật lý</div>
+                     </a>
+                            </span><br />
+                      
+        </li>
+               <li class="menutitle" >
+                <img src="/themes/templates_truonghoc3/css/images_green/ul_style.png" />&nbsp;&nbsp;&nbsp;<a href="/gioi-thieu" class="main_link">Thông tin đơn vị</a> 
+         <span class="submenu" style='display:none' >
+                                    <a href="/gioi-thieu/ban-giam-hieu">
+                     <div class="sub_link">Ban giám hiệu</div>
+                     </a>
+                                   <a href="/gioi-thieu/cac-to-chuyen-mon">
+                     <div class="sub_link">Các tổ chuyên môn</div>
+                     </a>
+                            </span><br />
+                      
+        </li>
+               <li class="menutitle" >
+                <img src="/themes/templates_truonghoc3/css/images_green/ul_style.png" />&nbsp;&nbsp;&nbsp;<a href="/giao-an-e_learning" class="main_link">Giáo án E.Learning</a>         
+                      
+        </li>
+               <li class="menutitle" >
+                <img src="/themes/templates_truonghoc3/css/images_green/ul_style.png" />&nbsp;&nbsp;&nbsp;<a href="/tin-tuc" class="main_link">Tin tức</a> 
+         <span class="submenu" style='display:none' >
+                                    <a href="/tin-tuc/tin-van-nghe">
+                     <div class="sub_link">Tin văn Nghệ</div>
+                     </a>
+                                   <a href="/tin-tuc/tin-giao-duc">
+                     <div class="sub_link">Tin giáo dục</div>
+                     </a>
+                                   <a href="/tin-tuc/hoc-bong-du-hoc">
+                     <div class="sub_link">Học bổng - Du học</div>
+                     </a>
+                                   <a href="/tin-tuc/chuyen-hoc-duong">
+                     <div class="sub_link">Tin tức trường lớp</div>
+                     </a>
+                            </span><br />
+                      
+        </li>
+               <li class="menutitle" >
+                <img src="/themes/templates_truonghoc3/css/images_green/ul_style.png" />&nbsp;&nbsp;&nbsp;<a href="/tim-hieu-hien-phap" class="main_link">Tìm hiểu Hiến pháp</a>         
+                      
+        </li>
+               <li class="menutitle" >
+                <img src="/themes/templates_truonghoc3/css/images_green/ul_style.png" />&nbsp;&nbsp;&nbsp;<a href="/doan-the" class="main_link">Đoàn thể</a> 
+         <span class="submenu" style='display:none' >
+                                    <a href="/doan-the/chi-bo">
+                     <div class="sub_link">ĐẢNG BỘ</div>
+                     </a>
+                                   <a href="/doan-the/hoi-dong-truong">
+                     <div class="sub_link">Hội Đồng trường</div>
+                     </a>
+                                   <a href="/doan-the/doan-the">
+                     <div class="sub_link">Ban Giám hiệu</div>
+                     </a>
+                                   <a href="/doan-the/cong-doan">
+                     <div class="sub_link">Công Đoàn</div>
+                     </a>
+                                   <a href="/doan-the/doan-thanh-nien">
+                     <div class="sub_link">Đoàn Thanh niên</div>
+                     </a>
+                                   <a href="/doan-the/hoi-phu-huynh-hoc-sinh">
+                     <div class="sub_link">Hội phụ huynh học sinh</div>
+                     </a>
+                                   <a href="/doan-the/hoi-chu-thap-do">
+                     <div class="sub_link">Hội chữ thập đỏ</div>
+                     </a>
+                            </span><br />
+                      
+        </li>
+               <li class="menutitle" >
+                <img src="/themes/templates_truonghoc3/css/images_green/ul_style.png" />&nbsp;&nbsp;&nbsp;<a href="/ke-hoach" class="main_link">Kế hoạch</a> 
+         <span class="submenu" style='display:none' >
+                                    <a href="/ke-hoach/ke-hoach-tuan">
+                     <div class="sub_link">Kế hoạch tuần</div>
+                     </a>
+                                   <a href="/ke-hoach/ke-hoach-thang">
+                     <div class="sub_link">Kế hoạch tháng</div>
+                     </a>
+                                   <a href="/ke-hoach/ke-hoach-nam">
+                     <div class="sub_link">Kế hoạch năm</div>
+                     </a>
+                                   <a href="/ke-hoach/ke-hoach-chien-luoc">
+                     <div class="sub_link">Kế hoạch chiến lược</div>
+                     </a>
+                            </span><br />
+                      
+        </li>
+               <li class="menutitle" >
+                <img src="/themes/templates_truonghoc3/css/images_green/ul_style.png" />&nbsp;&nbsp;&nbsp;<a href="/thong-bao" class="main_link">Thông báo</a>         
+                      
+        </li>
+               <li class="menutitle" >
+                <img src="/themes/templates_truonghoc3/css/images_green/ul_style.png" />&nbsp;&nbsp;&nbsp;<a href="/3-cong-khai" class="main_link">3 Công khai</a>         
+                      
+        </li>
+               <li class="menutitle" >
+                <img src="/themes/templates_truonghoc3/css/images_green/ul_style.png" />&nbsp;&nbsp;&nbsp;<a href="/khoa-hoc-va-cong-nghe" class="main_link">Khoa học và công nghệ</a> 
+         <span class="submenu" style='display:none' >
+                                    <a href="/khoa-hoc-va-cong-nghe/tham-dinh-de-tai-khcn">
+                     <div class="sub_link">Thẩm định đề tài KHCN</div>
+                     </a>
+                                   <a href="/khoa-hoc-va-cong-nghe/san-pham-giao-duc">
+                     <div class="sub_link">Sản phẩm giáo dục</div>
+                     </a>
+                                   <a href="/khoa-hoc-va-cong-nghe/cong-nghe-ho-tro-giao-duc">
+                     <div class="sub_link">Công nghệ hỗ trợ giáo dục</div>
+                     </a>
+                                   <a href="/khoa-hoc-va-cong-nghe/ket-qua-nghien-cuu-giao-duc-cua-nha-truong">
+                     <div class="sub_link">kết quả nghiên cứu giáo dục của nhà trường</div>
+                     </a>
+                                   <a href="/khoa-hoc-va-cong-nghe/ket-qua-nghien-cuu-khcn">
+                     <div class="sub_link">Kết quả nghiên cứu KHCN</div>
+                     </a>
+                            </span><br />
+                      
+        </li>
+               <li class="menutitle" >
+                <img src="/themes/templates_truonghoc3/css/images_green/ul_style.png" />&nbsp;&nbsp;&nbsp;<a href="/anh" class="main_link">Thư viện ảnh</a> 
+         <span class="submenu" style='display:none' >
+                                    <a href="/anh/anh-truong">
+                     <div class="sub_link">Ảnh về  trường</div>
+                     </a>
+                                   <a href="/anh/anh-hoat-dong">
+                     <div class="sub_link">Ảnh hoạt động</div>
+                     </a>
+                            </span><br />
+                      
+        </li>
+               <li class="menutitle" >
+                <img src="/themes/templates_truonghoc3/css/images_green/ul_style.png" />&nbsp;&nbsp;&nbsp;<a href="/danh-sach" class="main_link">Sưu tầm - Sáng tác</a>         
+                      
+        </li>
+               <li class="menutitle" >
+                <img src="/themes/templates_truonghoc3/css/images_green/ul_style.png" />&nbsp;&nbsp;&nbsp;<a href="/" class="main_link">Sử dụng thiết bị</a>         
+                      
+        </li>
+               <li class="menutitle" >
+                <img src="/themes/templates_truonghoc3/css/images_green/ul_style.png" />&nbsp;&nbsp;&nbsp;<a href="/video" class="main_link">Video</a>         
+                      
+        </li>
+               <li class="menutitle" >
+                <img src="/themes/templates_truonghoc3/css/images_green/ul_style.png" />&nbsp;&nbsp;&nbsp;<a href="/gop-y" class="main_link">Góp ý</a>         
+                      
+        </li>
+           </ul> 
+  
+</div><div class="wlienketnoibo">
+
+           <a href="/lich-bao-giang"><img src="/imgs/LienKet/c-fakepathlichbaogiang.png" title="Lịch báo giảng" /></a>
+        <a href="/thoi-khoa-bieu"><img src="/imgs/LienKet/c-fakepaththoikhoabieu.png" title="Thời khóa biểu" /></a>
+        <a href="/ke-hoach"><img src="/imgs/LienKet/c-fakepathkehoach.png" title="Kế Hoạch" /></a>
+        <a href="/lich-cong-tac"><img src="/imgs/LienKet/c-fakepathlichcongtac.png" title="Lịch công tác" /></a>
+    </div>
+
+<!-- Widget Thư Viện-->
+<div class="wthuvien br"> 
+    <div class="tit_wthuvien" >
+    <h4  style="cursor:pointer" onclick="window.location='/tai-nguyen/'">Tài nguyên</h4>
+    </div>
+    <ul id="menu_wthuvien"> 
+               <li class="menutitle">
+                <img src="/themes/templates_truonghoc3/css/images_green/ul_style.png" />&nbsp;&nbsp;&nbsp;<a href="/tai-nguyen/tu-lieu-bai-giang" class="main_link">Tư liệu bài giảng</a>         
+               <span class="submenu_thuvien" id="sub_thuvien0" >
+                                <a href="/tai-nguyen/tu-lieu-bai-giang/bai-giang">
+                 <div class="sub_link">Toán</div>
+                 </a>
+                               <a href="/tai-nguyen/tu-lieu-bai-giang/ly">
+                 <div class="sub_link">Vật lý</div>
+                 </a>
+                               <a href="/tai-nguyen/tu-lieu-bai-giang/hoa">
+                 <div class="sub_link">Hoá học</div>
+                 </a>
+                               <a href="/tai-nguyen/tu-lieu-bai-giang/sinh-hoc">
+                 <div class="sub_link">Sinh học</div>
+                 </a>
+                               <a href="/tai-nguyen/tu-lieu-bai-giang/tin-hoc">
+                 <div class="sub_link">Tin học</div>
+                 </a>
+                               <a href="/tai-nguyen/tu-lieu-bai-giang/van">
+                 <div class="sub_link">Ngữ văn</div>
+                 </a>
+                               <a href="/tai-nguyen/tu-lieu-bai-giang/su">
+                 <div class="sub_link">Lịch sử</div>
+                 </a>
+                               <a href="/tai-nguyen/tu-lieu-bai-giang/dia">
+                 <div class="sub_link">Địa lí</div>
+                 </a>
+                               <a href="/tai-nguyen/tu-lieu-bai-giang/giao-duc-cong-dan">
+                 <div class="sub_link">Giáo dục công dân</div>
+                 </a>
+                               <a href="/tai-nguyen/tu-lieu-bai-giang/ngoai-ngu">
+                 <div class="sub_link">Tiếng Anh</div>
+                 </a>
+                               <a href="/tai-nguyen/tu-lieu-bai-giang/the-duc-gdqp">
+                 <div class="sub_link">Thể dục - GDQP</div>
+                 </a>
+                               <a href="/tai-nguyen/tu-lieu-bai-giang/cong-nghe">
+                 <div class="sub_link">Kỹ thuật công nghiệp</div>
+                 </a>
+                               <a href="/tai-nguyen/tu-lieu-bai-giang/ky-thuat-nong-nghiep">
+                 <div class="sub_link">Kỹ thuật nông nghiệp</div>
+                 </a>
+                               <a href="/tai-nguyen/tu-lieu-bai-giang/cac-mon-khac">
+                 <div class="sub_link">Các môn khác</div>
+                 </a>
+                               <a href="/tai-nguyen/tu-lieu-bai-giang/giao-an-dien-tu">
+                 <div class="sub_link">Giáo án điện tử</div>
+                 </a>
+                               <a href="/tai-nguyen/tu-lieu-bai-giang/cong-cu-day-hoc">
+                 <div class="sub_link">Công cụ dạy học</div>
+                 </a>
+                            </span><br />
+        </li>
+               <li class="menutitle">
+                <img src="/themes/templates_truonghoc3/css/images_green/ul_style.png" />&nbsp;&nbsp;&nbsp;<a href="/tai-nguyen/de-thi-dap-an" class="main_link">Đề thi - Đáp án</a>         
+               <span class="submenu_thuvien" id="sub_thuvien1" >
+                                <a href="/tai-nguyen/de-thi-dap-an/toan">
+                 <div class="sub_link">Toán</div>
+                 </a>
+                               <a href="/tai-nguyen/de-thi-dap-an/vat-ly">
+                 <div class="sub_link">Vật lý</div>
+                 </a>
+                               <a href="/tai-nguyen/de-thi-dap-an/hoa-hoc">
+                 <div class="sub_link">Hoá học</div>
+                 </a>
+                               <a href="/tai-nguyen/de-thi-dap-an/sinh">
+                 <div class="sub_link">Sinh học</div>
+                 </a>
+                               <a href="/tai-nguyen/de-thi-dap-an/tin">
+                 <div class="sub_link">Tin học</div>
+                 </a>
+                               <a href="/tai-nguyen/de-thi-dap-an/vanhoc">
+                 <div class="sub_link">Ngữ văn</div>
+                 </a>
+                               <a href="/tai-nguyen/de-thi-dap-an/suhoc">
+                 <div class="sub_link">Lịch sử</div>
+                 </a>
+                               <a href="/tai-nguyen/de-thi-dap-an/diahoc">
+                 <div class="sub_link">Địa lí</div>
+                 </a>
+                               <a href="/tai-nguyen/de-thi-dap-an/gdcd">
+                 <div class="sub_link">Giáo dục công dân</div>
+                 </a>
+                               <a href="/tai-nguyen/de-thi-dap-an/anhvan">
+                 <div class="sub_link">Tiếng Anh</div>
+                 </a>
+                               <a href="/tai-nguyen/de-thi-dap-an/ktnn">
+                 <div class="sub_link">Kỹ thuật nông nghiệp</div>
+                 </a>
+                               <a href="/tai-nguyen/de-thi-dap-an/ky-thuat-cong-nghiep">
+                 <div class="sub_link">Kỹ thuật công nghiệp</div>
+                 </a>
+                               <a href="/tai-nguyen/de-thi-dap-an/mon-khac">
+                 <div class="sub_link">Các môn khác</div>
+                 </a>
+                            </span><br />
+        </li>
+               <li class="menutitle">
+                <img src="/themes/templates_truonghoc3/css/images_green/ul_style.png" />&nbsp;&nbsp;&nbsp;<a href="/tai-nguyen/bai-viet-chuyen-mon" class="main_link">Bài viết chuyên môn</a>         
+               <span class="submenu_thuvien" id="sub_thuvien2" >
+                                <a href="/tai-nguyen/bai-viet-chuyen-mon/mon-toan">
+                 <div class="sub_link">Môn Toán</div>
+                 </a>
+                               <a href="/tai-nguyen/bai-viet-chuyen-mon/mon-tin">
+                 <div class="sub_link">Môn Tin</div>
+                 </a>
+                               <a href="/tai-nguyen/bai-viet-chuyen-mon/mon-ly">
+                 <div class="sub_link">Môn Lý</div>
+                 </a>
+                               <a href="/tai-nguyen/bai-viet-chuyen-mon/hoahoc">
+                 <div class="sub_link">Môn Hoá</div>
+                 </a>
+                               <a href="/tai-nguyen/bai-viet-chuyen-mon/mon-sinh">
+                 <div class="sub_link">Môn Sinh</div>
+                 </a>
+                               <a href="/tai-nguyen/bai-viet-chuyen-mon/mon-su">
+                 <div class="sub_link">Môn Sử</div>
+                 </a>
+                               <a href="/tai-nguyen/bai-viet-chuyen-mon/mon-dia">
+                 <div class="sub_link">Môn Địa</div>
+                 </a>
+                               <a href="/tai-nguyen/bai-viet-chuyen-mon/mon-anh-van">
+                 <div class="sub_link">Môn Anh văn</div>
+                 </a>
+                               <a href="/tai-nguyen/bai-viet-chuyen-mon/monkhac">
+                 <div class="sub_link">Các môn khác</div>
+                 </a>
+                            </span><br />
+        </li>
+               <li class="menutitle">
+                <img src="/themes/templates_truonghoc3/css/images_green/ul_style.png" />&nbsp;&nbsp;&nbsp;<a href="/tai-nguyen/tai-lieu-chi-bo" class="main_link">Tài liệu Đảng bộ</a>         
+               <span class="submenu_thuvien" id="sub_thuvien3" >
+                                <a href="/tai-nguyen/tai-lieu-chi-bo/tai-lieu">
+                 <div class="sub_link">Tài liệu</div>
+                 </a>
+                            </span><br />
+        </li>
+               <li class="menutitle">
+                <img src="/themes/templates_truonghoc3/css/images_green/ul_style.png" />&nbsp;&nbsp;&nbsp;<a href="/tai-nguyen/thu-vien-sach" class="main_link">Thư viện sách</a>         
+               <span class="submenu_thuvien" id="sub_thuvien4" >
+                                <a href="/tai-nguyen/thu-vien-sach/sach-tham-khao">
+                 <div class="sub_link">Sách tham khảo</div>
+                 </a>
+                               <a href="/tai-nguyen/thu-vien-sach/sach-nang-cao">
+                 <div class="sub_link">Sách nâng cao</div>
+                 </a>
+                               <a href="/tai-nguyen/thu-vien-sach/sach-chuyen-mon">
+                 <div class="sub_link">Sách chuyên môn</div>
+                 </a>
+                            </span><br />
+        </li>
+               <li class="menutitle">
+                <img src="/themes/templates_truonghoc3/css/images_green/ul_style.png" />&nbsp;&nbsp;&nbsp;<a href="/tai-nguyen/phan-mem-huu-ich" class="main_link">Phần mềm hữu ích</a>         
+               <span class="submenu_thuvien" id="sub_thuvien5" >
+                                <a href="/tai-nguyen/phan-mem-huu-ich/phan-mem-tien-ich">
+                 <div class="sub_link">Phần mềm tiện ích</div>
+                 </a>
+                               <a href="/tai-nguyen/phan-mem-huu-ich/phan-mem-ung-dung">
+                 <div class="sub_link">Phần mềm công cụ</div>
+                 </a>
+                               <a href="/tai-nguyen/phan-mem-huu-ich/phan-mem-hoc-tieng-anh">
+                 <div class="sub_link">Phần mềm học tiếng Anh</div>
+                 </a>
+                            </span><br />
+        </li>
+               <li class="menutitle">
+                <img src="/themes/templates_truonghoc3/css/images_green/ul_style.png" />&nbsp;&nbsp;&nbsp;<a href="/tai-nguyen/goc-giai-tri" class="main_link">Góc giải trí</a>         
+               <span class="submenu_thuvien" id="sub_thuvien6" >
+                                <a href="/tai-nguyen/goc-giai-tri/phim">
+                 <div class="sub_link">Phim</div>
+                 </a>
+                               <a href="/tai-nguyen/goc-giai-tri/truyen-cuoi">
+                 <div class="sub_link">Truyện cười</div>
+                 </a>
+                            </span><br />
+        </li>
+           </ul> 
+       
+</div> <!---------End thu vien --->
+
+    <!-- Widget Danh Muc-->
+<div class="wdanhmuc br"> 
+    <div class="tit_wdanhmuc" >
+    <h4 style="cursor:pointer" onclick="window.location='/lien-ket-dong'">Liên kết ngoài</h4>
+    </div>
+    <ul id="menu_wdanhmuc"> 
+               <li class="menutitle" >
+<img src="/themes/templates_truonghoc3/css/images_green/ul_style.png" />&nbsp;&nbsp;&nbsp;<a href="/
+lien-ket-dong/co-quan-nha-nuoc.htm" class="main_link">Cơ quan nhà nước</a>     <br />                 
+        </li>
+               <li class="menutitle" >
+<img src="/themes/templates_truonghoc3/css/images_green/ul_style.png" />&nbsp;&nbsp;&nbsp;<a href="/
+lien-ket-dong/khoa-hoc-giao-duc.htm" class="main_link">Khoa học & giáo dục</a>     <br />                 
+        </li>
+               <li class="menutitle" >
+<img src="/themes/templates_truonghoc3/css/images_green/ul_style.png" />&nbsp;&nbsp;&nbsp;<a href="/
+lien-ket-dong/bao-dien-tu.htm" class="main_link">Báo điện tử </a>     <br />                 
+        </li>
+               <li class="menutitle" >
+<img src="/themes/templates_truonghoc3/css/images_green/ul_style.png" />&nbsp;&nbsp;&nbsp;<a href="/
+lien-ket-dong/thu-giangiai-tri.htm" class="main_link">Thư giản, giải trí</a>     <br />                 
+        </li>
+               <li class="menutitle" >
+<img src="/themes/templates_truonghoc3/css/images_green/ul_style.png" />&nbsp;&nbsp;&nbsp;<a href="/
+lien-ket-dong/phong-giao-duc.htm" class="main_link">Phòng Giáo dục</a>     <br />                 
+        </li>
+               <li class="menutitle" >
+<img src="/themes/templates_truonghoc3/css/images_green/ul_style.png" />&nbsp;&nbsp;&nbsp;<a href="/
+lien-ket-dong/trung-tam-gdtx.htm" class="main_link">Trung tâm GDTX</a>     <br />                 
+        </li>
+               <li class="menutitle" >
+<img src="/themes/templates_truonghoc3/css/images_green/ul_style.png" />&nbsp;&nbsp;&nbsp;<a href="/
+lien-ket-dong/trung-tam-huong-nghiep.htm" class="main_link">Trung tâm Hướng nghiệp</a>     <br />                 
+        </li>
+               <li class="menutitle" >
+<img src="/themes/templates_truonghoc3/css/images_green/ul_style.png" />&nbsp;&nbsp;&nbsp;<a href="/
+lien-ket-dong/truong-thpt.htm" class="main_link">Trường THPT</a>     <br />                 
+        </li>
+               <li class="menutitle" >
+<img src="/themes/templates_truonghoc3/css/images_green/ul_style.png" />&nbsp;&nbsp;&nbsp;<a href="/
+lien-ket-dong/truong-thcs.htm" class="main_link">Trường THCS</a>     <br />                 
+        </li>
+               <li class="menutitle" >
+<img src="/themes/templates_truonghoc3/css/images_green/ul_style.png" />&nbsp;&nbsp;&nbsp;<a href="/
+lien-ket-dong/truong-tieu-hoc.htm" class="main_link">Trường tiểu học</a>     <br />                 
+        </li>
+           </ul>  
+      
+</div>
+</aside> <!-- end left -->
+<section class="center fl brt"> 
+<!-----------Ban Tin Moi 3----------->
+
+<article class="whoatdong"> 
+<header> 
+   <p  style="cursor:pointer" onclick="window.location='/tin-tuc/'">Tin tức & sự kiện </p>
+</header>
+<section> 
+<!-- Widget Bản Tin Mới 3-->
+<link rel="stylesheet" type="text/css" href="/styles/slide_css3/style.css" />
+
+<div id="top4" class="top4 fl">	
+	<div class="hotnews-top fl"></div>
+	<div class="hotnews-content fl">
+		<div class="hotnews-detail fl">
+                       <b><a class="tit_link" href="/tin-tuc/thpt-vinh-loc-to-chuc-le-ky-niem-60-nam-thanh-lap-truong.html" target="_parent" 
+            title="THPT VINH LỘC TỔ CHỨC LỄ KỶ NIỆM 60 NĂM THÀNH LẬP TRƯỜNG (1961-2021)">THPT VINH LỘC TỔ CHỨC LỄ KỶ NIỆM 60 NĂM THÀNH LẬP TRƯỜNG (1961-2021) </a></b>
+			<p class="noidung"><a target="_parent" title="THPT VINH LỘC TỔ CHỨC LỄ KỶ NIỆM 60 NĂM THÀNH LẬP TRƯỜNG (1961-2021)" href="./tin-tuc/thpt-vinh-loc-to-chuc-le-ky-niem-60-nam-thanh-lap-truong.html"><img alt="THPT VINH LỘC TỔ CHỨC LỄ KỶ NIỆM 60 NĂM THÀNH LẬP TRƯỜNG (1961-2021)" class="img_big" src="/imgs/Thu_muc_he_thong/_Nam_2022/ky-niem-60-nam-thanh-lap-truong/so-tang-hoa.jpg"></a></p>
+Trường THPT Vinh Lộc được thành lập năm 1961, đến năm 2021 đã tròn 60 năm hình thành và phát triển. Để ôn lại những truyền thống quý báu cũng như tôn vinh những thành tích đáng tự hào của nhà trường, đồng thời ghi nhận, tri ân những đóng góp của các thế hệ cán bộ quản lý, nhà giáo, học sinh cho sự phát triển của nhà trường, Trường THPT Vinh Lộc đã tổ chức lễ Kỷ niệm 60 năm thành lập trường vào hai ngày 27,28/8/2022.</p>
+<a class="detail" href="/tin-tuc/thpt-vinh-loc-to-chuc-le-ky-niem-60-nam-thanh-lap-truong.html"> Xem thêm </a>
+            		</div>
+	</div>
+	<div class="hotnews-bottom fl"></div>	
+	<div class="t3 fl">	
+        	
+		<div class="t3-content fl">
+			<p><a title="THƯ NGỎ KỶ NIỆM 60 NĂM THÀNH LẬP TRƯỜNG THPT VINH LỘC"  href="/tin-tuc/thu-ngo-ky-niem-60-nam-thanh-lap-truong-thpt-vinh-loc.html" ><img alt="THƯ NGỎ KỶ NIỆM 60 NĂM THÀNH LẬP TRƯỜNG THPT VINH LỘC" class="img-top3" src="/imgs/Thu_muc_he_thong/_Nam_2022/thu-ngo-60-nam/thu-ngo-vl-page-0001.jpg"></a></p>
+<p><a class="link-title" href="/tin-tuc/thu-ngo-ky-niem-60-nam-thanh-lap-truong-thpt-vinh-loc.html">THƯ NGỎ KỶ NIỆM 60 NĂM THÀNH LẬP TRƯỜNG ...</a></p>
+
+		</div>
+        	
+		<div class="t3-content fl">
+			<p><a title="TRƯỜNG THPT VINH LỘC TỔ CHỨC LỄ TỔNG KẾT  VÀ TUYÊN DƯƠNG - KHEN THƯỞNG NĂM HỌC 2021 - 2022"  href="/tin-tuc/truong-thpt-vinh-loc-to-chuc-le-tong-ketva-tuyen-duong-khen-thuong-nam-hoc-20212022.html" ><img alt="TRƯỜNG THPT VINH LỘC TỔ CHỨC LỄ TỔNG KẾT  VÀ TUYÊN DƯƠNG - KHEN THƯỞNG NĂM HỌC 2021 - 2022" class="img-top3" src="/imgs/Thu_muc_he_thong/_Nam_2022/tong-ket-truong-2021-2022/anh-bia.jpg"></a></p>
+<p><a class="link-title" href="/tin-tuc/truong-thpt-vinh-loc-to-chuc-le-tong-ketva-tuyen-duong-khen-thuong-nam-hoc-20212022.html">TRƯỜNG THPT VINH LỘC TỔ CHỨC LỄ TỔNG ...</a></p>
+
+		</div>
+        	
+		<div class="t3-content fl">
+			<p><a title="TRƯỜNG THPT VINH LỘC PHỐI HỢP TỔ CHỨC TUYÊN TRUYỀN VỀ BIỂN ĐẢO CHO CÁN BỘ, GIÁO VIÊN, NHÂN VIÊN VÀ HỌC SINH"  href="/tin-tuc/truong-thpt-vinh-loc-phoi-hop-to-chuc-tuyen-truyen-ve-bien-dao-cho-can-bogiao-viennhan-vien-va-hoc-sinh.html" ><img alt="TRƯỜNG THPT VINH LỘC PHỐI HỢP TỔ CHỨC TUYÊN TRUYỀN VỀ BIỂN ĐẢO CHO CÁN BỘ, GIÁO VIÊN, NHÂN VIÊN VÀ HỌC SINH" class="img-top3" src="/imgs/Thu_muc_he_thong/_Nam_2022/tuyen-truyen-bien-dao/anh-bia.jpg"></a></p>
+<p><a class="link-title" href="/tin-tuc/truong-thpt-vinh-loc-phoi-hop-to-chuc-tuyen-truyen-ve-bien-dao-cho-can-bogiao-viennhan-vien-va-hoc-sinh.html">TRƯỜNG THPT VINH LỘC PHỐI HỢP TỔ CHỨC ...</a></p>
+
+		</div>
+        	</div>		
+</div>
+<div class="right_content"> 
+
+    <ul> 
+             <li><a style="float:left" class="otherlink" href="/tin-tuc/truong-thpt-vinh-loc-to-chuc-tuyen-duong-khen-thuong-hoc-sinh-gioi-va-hoc-sinh-dat-giai-khoa-hoc-ki-thuat-cap-tinh.html">TRƯỜNG THPT VINH LỘC TỔ CHỨC TUYÊN DƯƠNG-KHEN THƯỞNG HỌC SINH GIỎI VÀ HỌC SINH ĐẠT GIẢI KHOA HỌC KĨ THUẬT CẤP TỈNH</a></li>
+            <li><a style="float:left" class="otherlink" href="/tin-tuc/hoi-nghi-can-bocong-chucvien-chuctruong-thpt-vinh-loc-nam-hoc-2021-2022.html">HỘI NGHỊ CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC  TRƯỜNG THPT VINH LỘC NĂM HỌC 2021 - 2022</a></li>
+            <li><a style="float:left" class="otherlink" href="/tin-tuc/le-khai-giang-nam-hoc-2021-2022.html">LỄ KHAI GIẢNG NĂM HỌC 2021 - 2022 (TRỰC TUYẾN)</a></li>
+        </ul>
+</div><!-- end right_content-->
+
+</section>
+<div class="bottom_section"></div>
+
+
+</article>
+<!----WHoatdong_RIENG--------------->
+    <article class="whoatdong"> 
+<header> 
+<p style="cursor:pointer" onclick="window.location='/tin-tuc/chuyen-hoc-duong/'" >Tin hoạt động</p>
+</header>
+<section> 
+<div class="left_content fl"> 
+    <ul>
+    	
+    <p ><b><a class="tit_link" style="line-height:16px" href="./tin-tuc/chuyen-hoc-duong/toa-dam-ky-niem-ngay-quoc-te-phu-nu-08-3.html" >TỌA ĐÀM KỶ NIỆM NGÀY QUỐC TẾ PHỤ NỮ 08/3</a></b></p>
+    <p class="noidung" style="text-align:justify"> 
+      
+        <img src="/imgs/Thu_muc_he_thong/_Nam_2015/8_3_15/img-0906.jpg" class="img_big"/>
+                      Chiều ngày 06/3/2015, Công đoàn Trường THPT Vinh Lộc đã tổ chức tọa đàm kỷ niệm 105 năm Ngày Quốc tế phụ nữ và kỉ niệm 1975 năm Ngày khởi nghĩa Hai Bà Trưng.<a class="detail" href="./tin-tuc/chuyen-hoc-duong/toa-dam-ky-niem-ngay-quoc-te-phu-nu-08-3.html"> Xem thêm </a>  
+    </p>
+    
+        </ul>
+    
+    
+</div> <!-- end left_content-->
+<div class="right_content"> 
+    <ul> 
+             <li><a style="float:left; line-height:16px" class="otherlink" href="/tin-tuc/chuyen-hoc-duong/khai-giang-nam-hoc-moi-2016-2017.html">KHAI GIẢNG NĂM HỌC MỚI 2016 – 2017</a></li>
+            <li><a style="float:left; line-height:16px" class="otherlink" href="/tin-tuc/chuyen-hoc-duong/du-doan-diem-chuandiem-san.html">Dự đoán điểm chuẩn, điểm sàn</a></li>
+            <li><a style="float:left; line-height:16px" class="otherlink" href="/tin-tuc/chuyen-hoc-duong/so-gddtxay-dung-de-an-day-va-hoc-ngoai-ngu-giai-doan-2012-2020.html">Sở GDĐT: Xây dựng Đề án dạy và học ngoại ngữ giai đoạn 2012 – 2020</a></li>
+        </ul>
+</div><!-- end right_content-->
+</section>
+<div class="bottom_section"></div>
+</article>
+
+
+<article class="wgoctuongtac"> 
+          <div class="tabber br">
+ <!-------------------------------------------------------------------------------------->
+ 
+               <div class="tabbertab" style="position:static">
+           <h2>Góc phụ huynh</h2>
+            <section class="tuongtac"> 
+          <div class="left_content fl"> 
+              <ul>
+                        
+              </ul>
+              
+              
+          </div> <!-- end left_content-->
+          <div class="right_content"> 
+              <ul class="othernews"> 
+                               </ul>
+          </div><!-- end right_content-->
+          <div class="right_content"> 
+          <p class="cactinkhac">Các mục tin khác</p>
+              <ul> 
+                                   <li style="background-image:none"><b><a href="./tuong-tac-cua-nha-truong-2/goc-phu-huynh/bai-viet-cua-phu-huynh/">Bài viết của phụ huynh </a></b></li>
+                                  <li style="background-image:none"><b><a href="./tuong-tac-cua-nha-truong-2/goc-phu-huynh/goc-tuong-tac-hoi-phu-huynh-hoc-sinh/">Hội phụ huynh học sinh </a></b></li>
+                                  <li style="background-image:none"><b><a href="./tuong-tac-cua-nha-truong-2/goc-phu-huynh/nhung-tam-long-hao-tam/">Những tấm lòng hảo tâm </a></b></li>
+                              </ul>
+          </div><!-- end right_content-->
+      </section>
+    </div>
+                    <div class="tabbertab" style="position:static">
+           <h2>Góc giáo viên</h2>
+            <section class="tuongtac"> 
+          <div class="left_content fl"> 
+              <ul>
+                              <p><b><a style="line-height:16px" class="tit_link" href="./tuong-tac-cua-nha-truong-2/goc-giao-vien/cam-nhan-nghe-giao/nam-hoc-moi-ngam-tu-tuong-ho-chi-minh-ve-xa-hoi-hoc-tap/" >Năm học mới ngẫm tư tưởng Hồ Chí Minh về xã hội học tập</a></b></p>
+              <p class="noidung" style="text-align:justify"> 
+                
+                            <span class='clear_img'>
+(GD&amp;TĐ)  -&nbsp;Tư tưởng về x&atilde; hội học tập của Hồ Ch&iacute; Minh l&agrave; một t&agrave;i sản qu&yacute; gi&aacute; đối   với mỗi người v&agrave; đối với to&agrave;n x&atilde; hội, vận dụng s&aacute;ng tạo tư tưởng gi&aacute;o   dục của B&aacute;c v&agrave;o sự nghiệp đổi mới, n&acirc;ng cao chất lượng gi&aacute;o dục Nước  nh&agrave;  t&ocirc;i tin ch&uacute;ng ta sẽ th&agrave;nh c&ocirc;ng. 
+
+
+
+
+
+
+B&aacute;c Hồ thăm lớp học vỡ l&ograve;ng tại phố H&agrave;ng Than năm 1958 (ảnh TL)
+
+
+
+1. &nbsp;Học để biết - Learning to know&nbsp;
+2. Học để l&agrave;m - Learning to do
+3. ...</span><a class="detail" href="./tuong-tac-cua-nha-truong-2/goc-giao-vien/cam-nhan-nghe-giao/nam-hoc-moi-ngam-tu-tuong-ho-chi-minh-ve-xa-hoi-hoc-tap/"> Xem thêm </a>   
+              </p>
+	                
+              </ul>
+              
+              
+          </div> <!-- end left_content-->
+          <div class="right_content"> 
+              <ul class="othernews"> 
+                                   <li><a style="line-height:16px" href="./tuong-tac-cua-nha-truong-2/goc-giao-vien/cam-nhan-nghe-giao/ngay-20-11uong-nuoc-nho-nguon/">Chào mừng ngày Nhà giáo Việt Nam 20/11</a></li>
+                                  <li><a style="line-height:16px" href="./tuong-tac-cua-nha-truong-2/goc-giao-vien/cam-nhan-nghe-giao/hoan-thien-he-thong-giao-duc-quoc-dan-nham-doi-moi-can-ban-toan-dien-giao-ducdao-tao/">Hoàn thiện hệ thống giáo dục quốc dân nhằm đổi mới căn bản toàn diện giáo dục, đào tạo</a></li>
+                                  <li><a style="line-height:16px" href="./tuong-tac-cua-nha-truong-2/goc-giao-vien/cam-nhan-nghe-giao/giao-vien-bo-mon-can-phat-huy-vai-tro-trong-tiet-hoc/">Giáo viên bộ môn cần phát huy vai trò trong tiết học</a></li>
+                                  <li><a style="line-height:16px" href="./tuong-tac-cua-nha-truong-2/goc-giao-vien/cac-bai-viet-giao-vien/cam-nhan-cua-giao-vien/">Cảm nhận của giáo viên</a></li>
+                              </ul>
+          </div><!-- end right_content-->
+          <div class="right_content"> 
+          <p class="cactinkhac">Các mục tin khác</p>
+              <ul> 
+                                   <li style="background-image:none"><b><a href="./tuong-tac-cua-nha-truong-2/goc-giao-vien/cam-nhan-nghe-giao/">Cảm nhận nghề giáo viên</a></b></li>
+                                  <li style="background-image:none"><b><a href="./tuong-tac-cua-nha-truong-2/goc-giao-vien/cac-bai-viet-giao-vien/">Các bài viết về giáo viên</a></b></li>
+                              </ul>
+          </div><!-- end right_content-->
+      </section>
+    </div>
+                    <div class="tabbertab" style="position:static">
+           <h2>Góc học sinh</h2>
+            <section class="tuongtac"> 
+          <div class="left_content fl"> 
+              <ul>
+                              <p><b><a style="line-height:16px" class="tit_link" href="./tuong-tac-cua-nha-truong-2/goc-hoc-sinh/cam-nhan-cua-hoc-sinh/giac-mo-doanh-so-cua-thay-giao-su/" >Giấc mơ doanh số của thầy giáo sử</a></b></p>
+              <p class="noidung" style="text-align:justify"> 
+                
+                            <img src="/imgs/Thu_muc_he_thong/_Nam_2016/_Thang_01/linh-7796-1453190652.jpg" class="img_big"/>
+                                   Đứng lớp được hai tháng, Lê Văn Linh (Trung tâm kinh doanh Sài Gòn 11, FPT Telecom) quyết định ngừng giấc mơ “sử gia” để đến với con đường đầy chông gai mang tên kinh doanh. Hơn hai năm rồi, những giấc mơ doanh số vẫn không ngừng cuốn lấy anh. <a class="detail" href="./tuong-tac-cua-nha-truong-2/goc-hoc-sinh/cam-nhan-cua-hoc-sinh/giac-mo-doanh-so-cua-thay-giao-su/"> Xem thêm </a>   
+              </p>
+	                
+              </ul>
+              
+              
+          </div> <!-- end left_content-->
+          <div class="right_content"> 
+              <ul class="othernews"> 
+                                   <li><a style="line-height:16px" href="./tuong-tac-cua-nha-truong-2/goc-hoc-sinh/cam-nhan-cua-hoc-sinh/cac-buoc-lap-ke-hoach-nghe-nghiep-cua-hoc-sinh-thpt/">Các bước lập kế hoạch nghề nghiệp của học sinh THPT</a></li>
+                                  <li><a style="line-height:16px" href="./tuong-tac-cua-nha-truong-2/goc-hoc-sinh/cam-nhan-cua-hoc-sinh/ky-nang-doc-hieu-nhanh/">Kỹ năng đọc hiểu nhanh</a></li>
+                                  <li><a style="line-height:16px" href="./tuong-tac-cua-nha-truong-2/goc-hoc-sinh/cam-nhan-cua-hoc-sinh/tam-biet-nhe-mai-truong-than-yeu/">Tạm biệt nhé mái trường thân yêu</a></li>
+                                  <li><a style="line-height:16px" href="./tuong-tac-cua-nha-truong-2/goc-hoc-sinh/cac-bai-viet-cua-hoc-sinh/loi-phat-bieu-cua-hoc-sinh-nhan-ngay-nha-giao-viet-nam/">Lời phát biểu của học sinh nhân ngày Nhà Giáo Việt Nam </a></li>
+                              </ul>
+          </div><!-- end right_content-->
+          <div class="right_content"> 
+          <p class="cactinkhac">Các mục tin khác</p>
+              <ul> 
+                                   <li style="background-image:none"><b><a href="./tuong-tac-cua-nha-truong-2/goc-hoc-sinh/cac-bai-viet-cua-hoc-sinh/">Các bài viết của học sinh</a></b></li>
+                                  <li style="background-image:none"><b><a href="./tuong-tac-cua-nha-truong-2/goc-hoc-sinh/cam-nhan-cua-hoc-sinh/">Cảm nhận của học sinh</a></b></li>
+                              </ul>
+          </div><!-- end right_content-->
+      </section>
+    </div>
+            <!--------------------------------------------------------------------->
+    
+   
+   
+        </div>
+        <div class="bottom_section"></div>
+  </article> <!-- END wgoctuongtac -->
+  
+<!-----------Ban Tin Moi----------->
+
+<article class="whoatdong" id="wbantinmoi"> 
+<header> 
+   <p style="cursor:pointer"  onclick="window.location='/tin-tuc'">Tin tức & sự kiện</p>
+</header>
+<section> 
+<!-- Widget Bản Tin Mới -->
+<link rel="stylesheet" type="text/css" href="/styles/slide_css/style.css" />
+<script language="javascript" type="text/javascript" src="/javascript/slide_js/mootools.svn.js"></script>
+<script language="javascript" type="text/javascript" src="/javascript/slide_js/lofslidernews.mt11.js"></script>
+
+
+ <div id="container">           
+<!------------------------------------- THE CONTENT ------------------------------------------------->
+<div id="lofslidecontent45" class="lof-slidecontent">
+<div class="preload"><div></div></div>
+ <!-- MAIN CONTENT --> 
+  <div class="lof-main-wapper">
+  
+               		 <div class="lof-main-item">
+        		<img src="/imgs/Thu_muc_he_thong/_Nam_2022/ky-niem-60-nam-thanh-lap-truong/so-tang-hoa.jpg"/>           
+                 <div class="lof-main-item-desc">
+                <h3><a target="_parent" title="THPT VINH LỘC TỔ CHỨC LỄ KỶ NIỆM 60 NĂM THÀNH LẬP TRƯỜNG (1961-2021)" href="./tin-tuc/thpt-vinh-loc-to-chuc-le-ky-niem-60-nam-thanh-lap-truong.html">THPT VINH LỘC TỔ CHỨC LỄ KỶ NIỆM 60 NĂM THÀNH LẬP TRƯỜNG (1961-2021)</a></h3>
+
+                <p>
+		Tham dự Lễ Kỷ niệm, về phía Sở Giáo dục và Đào tạo Thừa Thiên Huế, nhà trường vinh dự được đón tiếp thầy ...</p>
+             </div>
+        </div> 
+          		 <div class="lof-main-item">
+        		<img src="/imgs/Thu_muc_he_thong/_Nam_2022/thu-ngo-60-nam/thu-ngo-vl-page-0001.jpg"/>           
+                 <div class="lof-main-item-desc">
+                <h3><a target="_parent" title="THƯ NGỎ KỶ NIỆM 60 NĂM THÀNH LẬP TRƯỜNG THPT VINH LỘC" href="./tin-tuc/thu-ngo-ky-niem-60-nam-thanh-lap-truong-thpt-vinh-loc.html">THƯ NGỎ KỶ NIỆM 60 NĂM THÀNH LẬP TRƯỜNG THPT VINH LỘC</a></h3>
+
+                <p>
+		
+		 </p>
+             </div>
+        </div> 
+          		 <div class="lof-main-item">
+        		<img src="/imgs/Thu_muc_he_thong/_Nam_2022/tong-ket-truong-2021-2022/anh-bia.jpg"/>           
+                 <div class="lof-main-item-desc">
+                <h3><a target="_parent" title="TRƯỜNG THPT VINH LỘC TỔ CHỨC LỄ TỔNG KẾT  VÀ TUYÊN DƯƠNG - KHEN THƯỞNG NĂM HỌC 2021 - 2022" href="./tin-tuc/truong-thpt-vinh-loc-to-chuc-le-tong-ketva-tuyen-duong-khen-thuong-nam-hoc-20212022.html">TRƯỜNG THPT VINH LỘC TỔ CHỨC LỄ TỔNG KẾT  VÀ TUYÊN DƯƠNG - KHEN THƯỞNG NĂM HỌC 2021 - 2022</a></h3>
+
+                <p>
+		Đến tham dự Lễ tổng kết và Tuyên dương – Khen thưởng, có sự hiện diện của đại diện các cấp lãnh đạo chính ...</p>
+             </div>
+        </div> 
+          		 <div class="lof-main-item">
+        		<img src="/imgs/Thu_muc_he_thong/_Nam_2022/tuyen-truyen-bien-dao/anh-bia.jpg"/>           
+                 <div class="lof-main-item-desc">
+                <h3><a target="_parent" title="TRƯỜNG THPT VINH LỘC PHỐI HỢP TỔ CHỨC TUYÊN TRUYỀN VỀ BIỂN ĐẢO CHO CÁN BỘ, GIÁO VIÊN, NHÂN VIÊN VÀ HỌC SINH" href="./tin-tuc/truong-thpt-vinh-loc-phoi-hop-to-chuc-tuyen-truyen-ve-bien-dao-cho-can-bogiao-viennhan-vien-va-hoc-sinh.html">TRƯỜNG THPT VINH LỘC PHỐI HỢP TỔ CHỨC TUYÊN TRUYỀN VỀ BIỂN ĐẢO CHO CÁN BỘ, GIÁO VIÊN, NHÂN VIÊN VÀ HỌC SINH</a></h3>
+
+                <p>
+		Về tham dự buổi tuyên truyền, có đồng chí Thượng tá Nguyễn Phương Chinh - Phó Chính ủy Trung đoàn 351 cùng các đồng ...</p>
+             </div>
+        </div> 
+          		 <div class="lof-main-item">
+        		<img src="/imgs/Thu_muc_he_thong/_Nam_2022/tuyen-duong-hsg-2021/bia.jpg"/>           
+                 <div class="lof-main-item-desc">
+                <h3><a target="_parent" title="TRƯỜNG THPT VINH LỘC TỔ CHỨC TUYÊN DƯƠNG-KHEN THƯỞNG HỌC SINH GIỎI VÀ HỌC SINH ĐẠT GIẢI KHOA HỌC KĨ THUẬT CẤP TỈNH" href="./tin-tuc/truong-thpt-vinh-loc-to-chuc-tuyen-duong-khen-thuong-hoc-sinh-gioi-va-hoc-sinh-dat-giai-khoa-hoc-ki-thuat-cap-tinh.html">TRƯỜNG THPT VINH LỘC TỔ CHỨC TUYÊN DƯƠNG-KHEN THƯỞNG HỌC SINH GIỎI VÀ HỌC SINH ĐẠT GIẢI KHOA HỌC KĨ THUẬT CẤP TỈNH</a></h3>
+
+                <p>
+		Đến tham dự buổi Lễ, nhà trường vinh dự đón tiếp đại diện lãnh đạo chính quyền các xã trên địa bàn; các ông ...</p>
+             </div>
+        </div> 
+          		 <div class="lof-main-item">
+        		<img src="/imgs/Thu_muc_he_thong/_Nam_2021/hoi-nghi-cbccvc/ảnh bìa.jpg"/>           
+                 <div class="lof-main-item-desc">
+                <h3><a target="_parent" title="HỘI NGHỊ CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC  TRƯỜNG THPT VINH LỘC NĂM HỌC 2021 - 2022" href="./tin-tuc/hoi-nghi-can-bocong-chucvien-chuctruong-thpt-vinh-loc-nam-hoc-2021-2022.html">HỘI NGHỊ CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC  TRƯỜNG THPT VINH LỘC NĂM HỌC 2021 - 2022</a></h3>
+
+                <p>
+		Tham dự Hội nghị, nhà trường vinh dự được đón tiếp thầy giáo Đặng Phước Mỹ - Phó Giám đốc Sở cùng quý thầy ...</p>
+             </div>
+        </div> 
+          		 <div class="lof-main-item">
+        		<img src="/imgs/Thu_muc_he_thong/_Nam_2021/_Thang_09/mq1.jpg"/>           
+                 <div class="lof-main-item-desc">
+                <h3><a target="_parent" title="LỄ KHAI GIẢNG NĂM HỌC 2021 - 2022 (TRỰC TUYẾN)" href="./tin-tuc/le-khai-giang-nam-hoc-2021-2022.html">LỄ KHAI GIẢNG NĂM HỌC 2021 - 2022 (TRỰC TUYẾN)</a></h3>
+
+                <p>
+		
+		
+		
+		 </p>
+             </div>
+        </div> 
+          		 <div class="lof-main-item">
+        		<img src="/imgs/Thu_muc_he_thong/_Nam_2021/_Thang_09/ds chia lop (web).pdf"/>           
+                 <div class="lof-main-item-desc">
+                <h3><a target="_parent" title="DANH SÁCH HỌC SINH LỚP 10, NĂM HỌC 2021-2022" href="./tin-tuc/danh-sach-hoc-sinh-lop-10nam-hoc-2021-2022.html">DANH SÁCH HỌC SINH LỚP 10, NĂM HỌC 2021-2022</a></h3>
+
+                <p> </p>
+             </div>
+        </div> 
+          		 <div class="lof-main-item">
+        		<img src="/imgs/Thu_muc_he_thong/_Nam_2021/day-truc-tuyen/bìa1.jpg"/>           
+                 <div class="lof-main-item-desc">
+                <h3><a target="_parent" title="DẠY HỌC VÀ KIỂM TRA TRỰC TUYẾN: BƯỚC CHUYỂN MÌNH CỦA TRƯỜNG THPT VINH LỘC" href="./tin-tuc/day-hoc-va-kiem-tra-truc-tuyenbuoc-chuyen-minh-cua-truong-thpt-vinh-loc.html">DẠY HỌC VÀ KIỂM TRA TRỰC TUYẾN: BƯỚC CHUYỂN MÌNH CỦA TRƯỜNG THPT VINH LỘC</a></h3>
+
+                <p>
+		Để đáp ứng yêu cầu thích nghi với hoàn cảnh mới cũng như đảm bảo tiến độ và chất lượng dạy học, Ban giám ...</p>
+             </div>
+        </div> 
+          		 <div class="lof-main-item">
+        		<img src="/imgs/Thu_muc_he_thong/_Nam_2021/quoc-phong-1/2.jpg"/>           
+                 <div class="lof-main-item-desc">
+                <h3><a target="_parent" title="THPT VINH LỘC NÂNG CAO CHẤT LƯỢNG  GIÁO DỤC QUỐC PHÒNG - AN NINH TRONG TRƯỜNG HỌC" href="./tin-tuc/thpt-vinh-loc-nang-cao-chat-luonggiao-duc-quoc-phong-an-ninh-trong-truong-hoc.html">THPT VINH LỘC NÂNG CAO CHẤT LƯỢNG  GIÁO DỤC QUỐC PHÒNG - AN NINH TRONG TRƯỜNG HỌC</a></h3>
+
+                <p>
+		Quán triệt sâu sắc các văn bản chỉ đạo của Trung ương về giáo dục quốc phòng - an ninh trong các trường phổ thông, ...</p>
+             </div>
+        </div> 
+          </div>
+  <!-- END MAIN CONTENT --> 
+    <!-- NAVIGATOR -->
+
+  <div class="lof-navigator-outer">
+  		<ul class="lof-navigator">
+                        <li>
+            	<div class="sl_news">
+                	<img src="/imgs/Thu_muc_he_thong/_Nam_2022/ky-niem-60-nam-thanh-lap-truong/so-tang-hoa.jpg" />
+                	<h3><a class="news" href="./tin-tuc/thpt-vinh-loc-to-chuc-le-ky-niem-60-nam-thanh-lap-truong.html">THPT VINH LỘC TỔ CHỨC LỄ KỶ NIỆM 60 NĂM THÀNH LẬP TRƯỜNG (1961-2021)</a></h3>
+                  	<span class="date">09:54 01/09/2022</span>
+                </div>    
+            </li>
+                        <li>
+            	<div class="sl_news">
+                	<img src="/imgs/Thu_muc_he_thong/_Nam_2022/thu-ngo-60-nam/thu-ngo-vl-page-0001.jpg" />
+                	<h3><a class="news" href="./tin-tuc/thu-ngo-ky-niem-60-nam-thanh-lap-truong-thpt-vinh-loc.html">THƯ NGỎ KỶ NIỆM 60 NĂM THÀNH LẬP TRƯỜNG THPT VINH LỘC</a></h3>
+                  	<span class="date">08:50 21/07/2022</span>
+                </div>    
+            </li>
+                        <li>
+            	<div class="sl_news">
+                	<img src="/imgs/Thu_muc_he_thong/_Nam_2022/tong-ket-truong-2021-2022/anh-bia.jpg" />
+                	<h3><a class="news" href="./tin-tuc/truong-thpt-vinh-loc-to-chuc-le-tong-ketva-tuyen-duong-khen-thuong-nam-hoc-20212022.html">TRƯỜNG THPT VINH LỘC TỔ CHỨC LỄ TỔNG KẾT  VÀ TUYÊN DƯƠNG - KHEN THƯỞNG NĂM HỌC 2021 - 2022</a></h3>
+                  	<span class="date">10:09 30/05/2022</span>
+                </div>    
+            </li>
+                        <li>
+            	<div class="sl_news">
+                	<img src="/imgs/Thu_muc_he_thong/_Nam_2022/tuyen-truyen-bien-dao/anh-bia.jpg" />
+                	<h3><a class="news" href="./tin-tuc/truong-thpt-vinh-loc-phoi-hop-to-chuc-tuyen-truyen-ve-bien-dao-cho-can-bogiao-viennhan-vien-va-hoc-sinh.html">TRƯỜNG THPT VINH LỘC PHỐI HỢP TỔ CHỨC TUYÊN TRUYỀN VỀ BIỂN ĐẢO CHO CÁN BỘ, GIÁO VIÊN, NHÂN VIÊN VÀ HỌC SINH</a></h3>
+                  	<span class="date">15:30 06/04/2022</span>
+                </div>    
+            </li>
+                        <li>
+            	<div class="sl_news">
+                	<img src="/imgs/Thu_muc_he_thong/_Nam_2022/tuyen-duong-hsg-2021/bia.jpg" />
+                	<h3><a class="news" href="./tin-tuc/truong-thpt-vinh-loc-to-chuc-tuyen-duong-khen-thuong-hoc-sinh-gioi-va-hoc-sinh-dat-giai-khoa-hoc-ki-thuat-cap-tinh.html">TRƯỜNG THPT VINH LỘC TỔ CHỨC TUYÊN DƯƠNG-KHEN THƯỞNG HỌC SINH GIỎI VÀ HỌC SINH ĐẠT GIẢI KHOA HỌC KĨ THUẬT CẤP TỈNH</a></h3>
+                  	<span class="date">08:09 21/02/2022</span>
+                </div>    
+            </li>
+                        <li>
+            	<div class="sl_news">
+                	<img src="/imgs/Thu_muc_he_thong/_Nam_2021/hoi-nghi-cbccvc/ảnh bìa.jpg" />
+                	<h3><a class="news" href="./tin-tuc/hoi-nghi-can-bocong-chucvien-chuctruong-thpt-vinh-loc-nam-hoc-2021-2022.html">HỘI NGHỊ CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC  TRƯỜNG THPT VINH LỘC NĂM HỌC 2021 - 2022</a></h3>
+                  	<span class="date">17:30 11/10/2021</span>
+                </div>    
+            </li>
+                        <li>
+            	<div class="sl_news">
+                	<img src="/imgs/Thu_muc_he_thong/_Nam_2021/_Thang_09/mq1.jpg" />
+                	<h3><a class="news" href="./tin-tuc/le-khai-giang-nam-hoc-2021-2022.html">LỄ KHAI GIẢNG NĂM HỌC 2021 - 2022 (TRỰC TUYẾN)</a></h3>
+                  	<span class="date">21:58 04/09/2021</span>
+                </div>    
+            </li>
+                        <li>
+            	<div class="sl_news">
+                	<img src="/imgs/Thu_muc_he_thong/_Nam_2021/_Thang_09/ds chia lop (web).pdf" />
+                	<h3><a class="news" href="./tin-tuc/danh-sach-hoc-sinh-lop-10nam-hoc-2021-2022.html">DANH SÁCH HỌC SINH LỚP 10, NĂM HỌC 2021-2022</a></h3>
+                  	<span class="date">09:43 10/08/2021</span>
+                </div>    
+            </li>
+                        <li>
+            	<div class="sl_news">
+                	<img src="/imgs/Thu_muc_he_thong/_Nam_2021/day-truc-tuyen/bìa1.jpg" />
+                	<h3><a class="news" href="./tin-tuc/day-hoc-va-kiem-tra-truc-tuyenbuoc-chuyen-minh-cua-truong-thpt-vinh-loc.html">DẠY HỌC VÀ KIỂM TRA TRỰC TUYẾN: BƯỚC CHUYỂN MÌNH CỦA TRƯỜNG THPT VINH LỘC</a></h3>
+                  	<span class="date">10:18 21/05/2021</span>
+                </div>    
+            </li>
+                        <li>
+            	<div class="sl_news">
+                	<img src="/imgs/Thu_muc_he_thong/_Nam_2021/quoc-phong-1/2.jpg" />
+                	<h3><a class="news" href="./tin-tuc/thpt-vinh-loc-nang-cao-chat-luonggiao-duc-quoc-phong-an-ninh-trong-truong-hoc.html">THPT VINH LỘC NÂNG CAO CHẤT LƯỢNG  GIÁO DỤC QUỐC PHÒNG - AN NINH TRONG TRƯỜNG HỌC</a></h3>
+                  	<span class="date">12:01 19/04/2021</span>
+                </div>    
+            </li>
+                             		
+        </ul>
+  </div>
+<script type="text/javascript">
+	var _lofmain =  $('lofslidecontent45');
+	var _lofscmain = _lofmain.getElement('.lof-main-wapper');
+	var _lofnavigator = _lofmain.getElement('.lof-navigator-outer .lof-navigator');
+	var object = new LofFlashContent( _lofscmain, 
+									  _lofnavigator,
+									  _lofmain.getElement('.lof-navigator-outer'),
+									  { fxObject:{ transition:Fx.Transitions.Quad.easeInOut,  duration:800},
+									 	 interval:10000,
+							 			 direction:'opacity' } );
+	object.start( true, _lofmain.getElement('.preload') );
+</script>
+
+<!------------------------------------- END OF THE CONTENT ------------------------------------------------->
+
+		</div>
+    </div>
+    
+</section>
+<div class="bottom_section"></div>
+</article>
+<article class="whoatdong" id="wgallery"> 
+<header> 
+<p  style="cursor:pointer" onclick="window.location='/anh/'">Thư viện ảnh</p>
+</header>
+<section> 	
+
+        <link rel="stylesheet" type="text/css" href="/styles/gallery/style.css">
+        <div class="container">
+        <div class="wrapper">
+  <div id="ei-slider" class="ei-slider"><div class="ei-slider-loading" style="display: none; ">Đang tải ảnh ...</div>
+                    <ul class="ei-slider-large">
+                    
+                      						<li style="opacity: 0; z-index: 1; ">
+                            <img src="/imgs/img-0006-1.jpg">
+                            <div class="ei-title">
+                                <h2 style="opacity: 0; display: block; ">img 0006 1</h2>
+                            </div>
+                        </li>
+                        						<li style="opacity: 0; z-index: 1; ">
+                            <img src="/imgs/img-0015-1.jpg">
+                            <div class="ei-title">
+                                <h2 style="opacity: 0; display: block; ">img 0015 1</h2>
+                            </div>
+                        </li>
+                        						<li style="opacity: 0; z-index: 1; ">
+                            <img src="/imgs/img-0030-1.jpg">
+                            <div class="ei-title">
+                                <h2 style="opacity: 0; display: block; ">img 0030 1</h2>
+                            </div>
+                        </li>
+                        						<li style="opacity: 0; z-index: 1; ">
+                            <img src="/imgs/Thu_muc_he_thong/_Nam_2013/_Thang_09/tin-tuc-khai-giang/choi.jpg">
+                            <div class="ei-title">
+                                <h2 style="opacity: 0; display: block; ">img 1</h2>
+                            </div>
+                        </li>
+                        						<li style="opacity: 0; z-index: 1; ">
+                            <img src="/imgs/Thu_muc_he_thong/_Nam_2015/8_3_15/img-0917.jpg">
+                            <div class="ei-title">
+                                <h2 style="opacity: 0; display: block; "></h2>
+                            </div>
+                        </li>
+                        						<li style="opacity: 0; z-index: 1; ">
+                            <img src="/imgs/Thu_muc_he_thong/_Nam_2015/8_3_15/img-0915.jpg">
+                            <div class="ei-title">
+                                <h2 style="opacity: 0; display: block; "></h2>
+                            </div>
+                        </li>
+                        						<li style="opacity: 0; z-index: 1; ">
+                            <img src="/imgs/Thu_muc_he_thong/_Nam_2015/dai-hoi-dang-bo/img-1102.jpg">
+                            <div class="ei-title">
+                                <h2 style="opacity: 0; display: block; ">img 1102</h2>
+                            </div>
+                        </li>
+                        						<li style="opacity: 0; z-index: 1; ">
+                            <img src="/imgs/Thu_muc_he_thong/_Nam_2015/dai-hoi-dang-bo/img-1100.jpg">
+                            <div class="ei-title">
+                                <h2 style="opacity: 0; display: block; ">img 1100</h2>
+                            </div>
+                        </li>
+                        						<li style="opacity: 0; z-index: 1; ">
+                            <img src="/imgs/Thu_muc_he_thong/_Nam_2015/dai-hoi-dang-bo/img-1093.jpg">
+                            <div class="ei-title">
+                                <h2 style="opacity: 0; display: block; ">img 1093</h2>
+                            </div>
+                        </li>
+                                            </ul><!-- ei-slider-large -->
+                    <ul class="ei-slider-thumbs" style="display: block; max-width: 1050px; ">
+                        <li class="ei-slider-element" style="max-width: 150px; width: 14.285714285714286%; left: 0px; ">Current</li>
+                      					<li style="max-width: 150px; width: 14.285714285714286%; "><a>img-0006-1.jpg</a><img src="imgs/img-0006-1.jpg" alt="img 0006 1"></li>
+                        					<li style="max-width: 150px; width: 14.285714285714286%; "><a>img-0015-1.jpg</a><img src="imgs/img-0015-1.jpg" alt="img 0015 1"></li>
+                        					<li style="max-width: 150px; width: 14.285714285714286%; "><a>img-0030-1.jpg</a><img src="imgs/img-0030-1.jpg" alt="img 0030 1"></li>
+                        					<li style="max-width: 150px; width: 14.285714285714286%; "><a>Thu_muc_he_thong/_Nam_2013/_Thang_09/tin-tuc-khai-giang/choi.jpg</a><img src="imgs/Thu_muc_he_thong/_Nam_2013/_Thang_09/tin-tuc-khai-giang/choi.jpg" alt="img 1"></li>
+                        					<li style="max-width: 150px; width: 14.285714285714286%; "><a>Thu_muc_he_thong/_Nam_2015/8_3_15/img-0917.jpg</a><img src="imgs/Thu_muc_he_thong/_Nam_2015/8_3_15/img-0917.jpg" alt=""></li>
+                        					<li style="max-width: 150px; width: 14.285714285714286%; "><a>Thu_muc_he_thong/_Nam_2015/8_3_15/img-0915.jpg</a><img src="imgs/Thu_muc_he_thong/_Nam_2015/8_3_15/img-0915.jpg" alt=""></li>
+                        					<li style="max-width: 150px; width: 14.285714285714286%; "><a>Thu_muc_he_thong/_Nam_2015/dai-hoi-dang-bo/img-1102.jpg</a><img src="imgs/Thu_muc_he_thong/_Nam_2015/dai-hoi-dang-bo/img-1102.jpg" alt="img 1102"></li>
+                        					<li style="max-width: 150px; width: 14.285714285714286%; "><a>Thu_muc_he_thong/_Nam_2015/dai-hoi-dang-bo/img-1100.jpg</a><img src="imgs/Thu_muc_he_thong/_Nam_2015/dai-hoi-dang-bo/img-1100.jpg" alt="img 1100"></li>
+                        					<li style="max-width: 150px; width: 14.285714285714286%; "><a>Thu_muc_he_thong/_Nam_2015/dai-hoi-dang-bo/img-1093.jpg</a><img src="imgs/Thu_muc_he_thong/_Nam_2015/dai-hoi-dang-bo/img-1093.jpg" alt="img 1093"></li>
+                                            </ul><!-- ei-slider-thumbs -->
+                </div><!-- ei-slider -->
+            </div><!-- wrapper -->
+        </div>
+        <script type="text/javascript" src="/javascript/gallery/jquery.min.js"></script>
+        <script type="text/javascript" src="/javascript/gallery/jquery.eislideshow.js"></script>
+        <script type="text/javascript" src="/javascript/gallery/jquery.easing.1.3.js"></script>
+        <script type="text/javascript">
+            $(function() {
+                $('#ei-slider').eislideshow({
+					animation			: 'center',
+					autoplay			: true,
+					slideshow_interval	: 5000,
+					titlesFactor		: 0
+                });
+            });
+        </script>
+		<script src="/javascript/gallery/csscustom.js"></script> 
+	<div><div id="oio-banner-1" style="width:130px; margin:0 auto;">
+<script type="text/javascript" async="true">
+jQuery(function($){
+	
+$('body').prepend('');
+$('<a>').attr('href','').attr('id','adpack-remove').bind('click',function(){
+		$(this).parent().remove();
+		return false;
+}).appendTo('#codrops-ad-wrapper');
+});
+</script>
+
+</div></div>
+    
+</section>
+<div class="bottom_section"></div>
+</article>
+</section>
+
+
+
+  <aside class="right fl"> 
+    <form name="search" action="/tim-kiem/" method="post"  class="search_form">
+  <input type="text" name="key" class="search_text" value="Tìm kiếm..." onclick="if(this.value=='Tìm kiếm...'){this.value=''}" onblur="if(this.value==''){this.value='Tìm kiếm...'}" />
+  <input type="hidden" name="menu" value="" />
+  <input type="hidden" name="name" value="" />
+  <input type="hidden" name="id_parent" value="" />
+  <input class="search_btn" value="" type="submit" />
+  <input type="hidden" name="token3d66cc77c375c0be1efdda3cfaaef967" value="24e29e6fb50b0652cfebf99b29ea5897">  </form>
+<div class="wwebmail">
+    <a target="_blank" href="http://203.210.244.148:8080/"><img src="/themes/templates_truonghoc3/images/Webmail.png"/></a>
+</div>
+
+
+<section class="wlichcongtac br"> 
+    <div class="tit_wlichcongtac"> 
+        <h4 style="cursor:pointer" onclick="window.location='/lich-cong-tac/'">Lịch công tác tuần</h4>
+    </div> <!-- end tit_wthuvien -->
+     <iframe src="/ifr_wlichcongtac.php" width="225" height="220" frameborder="0" scrolling="no"></iframe>         
+</section>
+    
+<section class="wthongbaomoi br"> 
+    <div class="tit_wthongbaomoi"> 
+        <h4  style="cursor:pointer" onclick="window.location='/thong-bao/'">Thông báo</h4>
+    </div> <!-- end tit_wthuvien -->
+              <p class='nd_thongbao' ><a href='/thong-bao/thong-bao-nghi-hoc-chong-bao-so-9.html'>Thông báo </a></p><p class='nd_thongbao' ><a href='/thong-bao/thong-bao-thay-doi-thoi-khoa-bieu.html'>THONG BAO </a></p><p class='nd_thongbao' ><a href='/thong-bao/thong-bao-hop-hoi-dong-dau-nam-nh-2017-2018.html'>THÔNG BÁO HỌP HỘI ĐỒNG ĐẦU NĂM NH 2017-2018 </a></p><p class='nd_thongbao' ><a href='/thong-bao/thong-bao-du-thi-tim-hieu-vn-lao.html'>Thông báo </a></p><p class='nd_thongbao' ><a href='/thong-bao/thong-bao-tkb-lop-12.html'>Thông báo TKB lớp 12  </a></p></section>
+
+<link href="../styles/video.css" rel="stylesheet">
+<script src="../javascript/video.js"></script>
+<style>
+.wvideo object embed
+{
+width: 225px !important;
+height: 250px !important;
+}
+</style>
+<section class="wvideo br">
+    <iframe width="420" height="315" src="http://www.youtube.com/embed/yetkNuSBxLU" frameborder="0" allowfullscreen></iframe>            <div class="all_video"><a href="/video" >Xem các video khác</a></div>
+            </section><!-- Widget Lượt truy cập-->
+<section class="wluottruycap br"> 
+    <h4><span class="visited"></span>Lượt truy cập : 4835135</h4>
+    <h4><span class="online"></span>Trực tuyến : 8</h4>
+    <!---------h4><span class="online"></span>IP : 1.53.150.144</h4------>
+</section>
+
+
+  </aside>
+</article >
+</section>
+<footer> 
+    	<div class="info_ft">
+            <p> Bản quyền thuộc TRƯỜNG THPT VINH LỘC<br />Chịu trách nhiệm nội dung: Nguyễn Văn Tuấn</p>
+            <!------------nav class="nav_ft fr"> <a href="#"> Trang chủ </a> | <a href="#"> Sitemap </a> | <a href="#"> Liên hệ </a> | <a href="#"> Hộp mail </a> | <a href="#"> FAQs </a></nav---------->
+            
+		</div>
+        
+    </footer>
+</body>
+</html>

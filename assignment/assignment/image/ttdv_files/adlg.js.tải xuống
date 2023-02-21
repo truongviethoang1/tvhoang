@@ -1,0 +1,28 @@
+// JavaScript Document
+function AddLogin(key,user,pass)
+{
+//alert(user+pass);
+if(user==""){alert("Vui lòng nhập tên tài khoản.");return false;}
+if(pass==""){alert("Vui lòng nhập mật khẩu.");return false;}
+if (window.XMLHttpRequest)
+	  {// code for IE7+, Firefox, Chrome, Opera, Safari
+	  xmlhttp=new XMLHttpRequest();
+	  }
+	else
+	  {// code for IE6, IE5
+	  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+	  }
+	xmlhttp.onreadystatechange=function()
+	  {
+	  if (xmlhttp.readyState==4 && xmlhttp.status==200)
+		{
+			if(xmlhttp.responseText=="OK")
+			  window.location="/admin/?module=information_exchange&permission=1";
+			else
+		      alert("Tài khoản hoặc mật khẩu không đúng.");
+		  //window.location="/admin/?module=information_exchange";
+		}
+	  }
+	xmlhttp.open("GET","/ajax_adlogin.php?usn="+user+"&pas="+pass+"&key="+key,true);
+	xmlhttp.send();
+}

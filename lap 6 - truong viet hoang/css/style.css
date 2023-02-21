@@ -1,0 +1,103 @@
+#container{
+    width: 960px;
+    height: 1000px;
+    margin: 0 auto;
+    position: relative;
+}
+header{
+    width: 100%;
+    height: 300px;
+    position: relative;
+} 
+header .top-right{
+    width: 300px;
+    height: 50px;
+    background-color: orangered;
+    position: absolute;
+    top: 0;
+    right: 0;
+    border-bottom-left-radius: 40px;
+    text-align: center;
+    font-variant: small-caps;
+}
+header .top-right a{
+    text-decoration: none;
+    color: white;
+    line-height: 40px;
+    padding: 5px;
+}
+header .top-right a:hover{
+    text-decoration: underline;
+    font-weight: bold;
+}
+header .company-info{
+    width: 300px;
+    height: 70px;
+    position: absolute;
+    bottom: 10px;
+    left: 15px;
+}
+header .company-info h1{
+    margin: 0;
+    padding: 0;
+    font-variant: small-caps;
+    color: white;
+    font-size: 35px;
+    border-bottom: 1px dotted red;
+    text-shadow: 0 0 5px orangered;
+    
+}
+header .company-info h3{
+    margin: 0;
+    padding: 0;
+    font-variant: small-caps;
+    color: orangered;
+    letter-spacing: 3px;
+}
+nav{
+    width: 100%;
+    height: 50px;
+    background-color: orange;
+    text-align: center;
+    font-variant: small-caps;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    line-height: 50px;
+    margin: 0 10px;
+}
+nav a:hover{
+    color: yellow;
+    text-decoration: underline;
+}
+article{
+    width: 70%;
+    height:500px;
+    background-color: rgb(240, 148, 148);
+    float: left;
+}
+aside{
+    width: 30%;
+    height: 500px;
+    background-color: white;
+    float: left;
+}
+.vmenu ul li {
+    list-style: none;
+} 
+footer{
+    border-top: 5px double orangered;
+    clear: both;
+    width: 100%;
+    height: 150px;
+    background-color: yellowgreen;
+    line-height: 150px;
+    text-align: center;
+    font-size: 26px;
+    font-variant: small-caps;
+}
+iframe[name=page]{
+    width: 100%;
+    min-height: 500px;
+}

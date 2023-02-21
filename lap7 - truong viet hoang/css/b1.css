@@ -1,0 +1,25 @@
+.vmenu{
+    padding: 0px;
+    margin:0px;
+    list-style:none;
+    border-radius: 3px;
+    box-shadow:0 0 2px gray
+    }
+    .vmenu a{
+    background: url(../img/2.gif) no-repeat 5px center;
+    display: block;
+    border-bottom: 1px dotted orangered;
+    color: orangered;
+    font-variant: small-caps;
+    font-size: larger;
+    text-decoration: none;
+    padding:  8px 5px 8px 30px;
+    }
+    .vmenu a:hover{
+    background:url(../img/3.gif)no-repeat 5px center;;
+    border-bottom: 1px dotted white;
+    background-color: orangered;
+    color: white;
+    font-weight: bold;
+    }
+    

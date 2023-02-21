@@ -1,0 +1,16 @@
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+tr:nth-child(2n+1){
+    background-color: yellow;
+}
+tr:nth-child(2n){
+    background-color: aqua;
+}
+tr:first-child{
+    background-color: rgb(68, 247, 172);
+}
+tr:last-child{
+    background-color: azure;
+}
